@@ -2,7 +2,8 @@
 
 /*
  * Html Template Generator
- * Sample From a Messanger Bot
+ * Sample From a Messanger Bot : Email Signature Generator
+ * https://web.facebook.com/EmailSignatureGenerator/
 */
 
 class TemplateGenerator
